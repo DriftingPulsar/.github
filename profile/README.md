@@ -11,17 +11,12 @@ Ripple::verse is a sci-fi, text-based learning platform where players solve codi
 - **Join a Community**: Participate in the Ripple::verse community and be the first to play the new challenges.
 
 
-## Technologies Used
-
-- **React.js**: For building the interactive user interface.
-- **Framer Motion**: For smooth animations and transitions.
-- **Font Awesome**: For icons used in the app.
-
 ## Connect With Us
 
+- Website: [rippleverse.app](https://rippleverse.app)
 - GitHub: [Ripple::verse GitHub Repository](https://github.com/rippleverse)
-- Email: [info@rippleverse.app](mailto:contact@rippleverse.com)
-
+- Email: [contact@rippleverse.app](mailto:contact@rippleverse.app)
+  
 
 ---
 
