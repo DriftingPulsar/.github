@@ -4,7 +4,7 @@ Ripple::verse is a sci-fi, text-based learning platform where players solve codi
 
 ## Features
 
-- **Text-based Adventure**: Dive into a futuristic world controlled by a powerful, ancient AI with a forgotten language.
+- **Text-based Adventure**: Dive into a futuristic world controlled by a powerful, ancient AI with a forgotten lahttps://github.com/rippleverse/.github/blob/main/README.mdnguage.
 - **Coding Challenges**: Solve puzzles related to distributed systems, networking, AI, and coding to unlock parts of the story.
 - **Dystopian Storyline**: Unravel the mysteries of a fractured world, dealing with solar flares, AI corruption, and complex communication systems.
 - **Learn While Playing**: Get hands-on experience in distributed systems and AI while progressing through a cyberpunk-inspired narrative.
